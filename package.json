@@ -1,0 +1,17 @@
+{
+	"name": "handmath",
+	"version": "0.0.1",
+	"description": "100% accurate math using hand method",
+	"main": "index.js",
+	"keywords": ["handmath", "mathematics", "arithmetic"],
+	"author": "Rifat Mahmud",
+	"license": "ISC",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/RifatMahmudno-1/handmath.git"
+	},
+	"bugs": {
+		"url": "https://github.com/RifatMahmudno-1/handmath/issues"
+	},
+	"homepage": "https://github.com/RifatMahmudno-1/handmath#readme"
+}
