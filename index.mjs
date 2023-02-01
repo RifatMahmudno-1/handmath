@@ -366,4 +366,3 @@ class HandMath {
 }
 
 export default HandMath
-export { HandMath }

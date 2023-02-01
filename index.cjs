@@ -366,4 +366,3 @@ class HandMath {
 }
 
 module.exports = HandMath
-exports.HandMath = HandMath
