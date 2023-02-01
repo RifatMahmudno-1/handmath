@@ -1,6 +1,6 @@
 {
 	"name": "handmath",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"description": "100% accurate math using hand method",
 	"main": "index.cjs",
 	"module": "index.mjs",
