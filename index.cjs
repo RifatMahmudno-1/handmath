@@ -365,5 +365,5 @@ class HandMath {
 	}
 }
 
-export default HandMath
-export { HandMath }
+module.exports = HandMath
+exports.HandMath = HandMath

@@ -1,9 +1,14 @@
 {
 	"name": "handmath",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "100% accurate math using hand method",
-	"main": "index.js",
-	"keywords": ["handmath", "mathematics", "arithmetic"],
+	"main": "index.cjs",
+	"module": "index.mjs",
+	"keywords": [
+		"handmath",
+		"mathematics",
+		"arithmetic"
+	],
 	"author": "Rifat Mahmud",
 	"license": "ISC",
 	"repository": {
